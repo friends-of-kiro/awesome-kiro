@@ -28,3 +28,9 @@ A curated list of resources for Kiro IDE - https://kiro.dev
 - [Dev.to](https://dev.to/kirodotdev)
 - [Reddit](https://www.reddit.com/r/kirodotdev)
 - [Twitter](https://x.com/i/communities/1944853984478683582)
+
+## Articles
+
+Only curated content
+
+- [Ali Spittel - Meet Kiro](https://dev.to/kirodotdev/meet-kiro-4m0o) - introduction to Kiro by a team member
