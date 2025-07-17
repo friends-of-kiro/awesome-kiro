@@ -11,7 +11,7 @@ A curated list of resources for Kiro IDE - https://kiro.dev
 #### Community
 - [Dev.to](https://dev.to/kirodotdev)
 - [Discord](https://discord.gg/kirodotdev)
-- [Reddit]([https://www.reddit.com/r/kiroIDE)
+- [Reddit](https://www.reddit.com/r/kiroIDE)
 
 #### Social media
 - [BlueSky](https://bsky.app/profile/kiro.dev)
