@@ -34,3 +34,9 @@ A curated list of resources for Kiro IDE - https://kiro.dev
 Only curated content
 
 - [Ali Spittel - Meet Kiro](https://dev.to/kirodotdev/meet-kiro-4m0o) - introduction to Kiro by a team member
+
+## Videos
+
+Only curated content
+
+- [Better Stack - Amazon's NEW AI IDE is Actually Different (in a good way!)](https://www.youtube.com/watch?v=Z9fUPyowRLI) - 10 minutes overview of Kiro's unique features
