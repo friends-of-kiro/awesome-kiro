@@ -1,5 +1,5 @@
 # Awesome Kiro
-A curated list of resources for Kiro IDE - https://kiro.dev
+An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 
 ## Official resources
 
