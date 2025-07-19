@@ -41,3 +41,7 @@ Only curated, quality content
 
 - [Better Stack - Amazon's NEW AI IDE is Actually Different (in a good way!)](https://www.youtube.com/watch?v=Z9fUPyowRLI) - 10 minutes overview of Kiro's unique features
 - [Syntax - How To Use Kiro, the New Agentic IDE](https://www.youtube.com/watch?v=8k1g-E1qGyQ) - 37 minutes longer overview with tutorial
+
+## Useful stuff
+
+- [Kiroclock](https://kiroclock.netlify.app/) - check how much time is left to Kiro's daily limit reset (everyday at 00:00 UTC)
