@@ -26,8 +26,9 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 - [Code with Kiro](https://kiro.devpost.com) - on Devpost
 
 ## Other communities
-- [Reddit](https://www.reddit.com/r/kiroIDE)
-- [Twitter group](https://x.com/i/communities/1944853984478683582)
+- [KiroIDE subreddit](https://www.reddit.com/r/kiroIDE)
+- [Kiro Community group on X](https://x.com/i/communities/1944853984478683582)
+- [Kiro.dev group on X](https://x.com/i/communities/1948748831648043113)
 
 ## Articles
 
