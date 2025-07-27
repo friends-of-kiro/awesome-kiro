@@ -42,6 +42,7 @@ Only curated, quality content
 
 - [Better Stack - Amazon's NEW AI IDE is Actually Different (in a good way!)](https://www.youtube.com/watch?v=Z9fUPyowRLI) - 10 minutes overview of Kiro's unique features
 - [Syntax - How To Use Kiro, the New Agentic IDE](https://www.youtube.com/watch?v=8k1g-E1qGyQ) - 37 minutes longer overview with tutorial
+- [Theo t3.gg - Kiro: Amazon's unexpected Cursor competitor](https://www.youtube.com/watch?v=ca8fs7ZeA7U) - 40 minutes of Theo's opinions and insights on Kiro
 
 ## Useful stuff
 
