@@ -44,6 +44,6 @@ Only curated, quality content
 - [Syntax - How To Use Kiro, the New Agentic IDE](https://www.youtube.com/watch?v=8k1g-E1qGyQ) - 37 minutes longer overview with tutorial
 - [Theo t3.gg - Kiro: Amazon's unexpected Cursor competitor](https://www.youtube.com/watch?v=ca8fs7ZeA7U) - 40 minutes of Theo's opinions and insights on Kiro
 
-## Useful stuff
+## Legacy stuff
 
-- [Kiroclock](https://kiroclock.netlify.app/) - check how much time is left to Kiro's daily limit reset (everyday at 00:00 UTC)
+- [Kiroclock](https://kiroclock.netlify.app/) - a popular app to check how much time was left to a daily limit during free Kiro preview. Make sure to press M.
