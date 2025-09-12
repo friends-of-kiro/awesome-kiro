@@ -34,6 +34,7 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 Only curated, quality content
 
 - [Ali Spittel - Meet Kiro](https://dev.to/kirodotdev/meet-kiro-4m0o) - introduction to Kiro by a team member
+- [Erik Hanchett - Top 8 Tips When Working With Kiro](https://kiro.hashnode.dev/top-8-tips-when-working-with-kiro) - some tips for newcomers mostly but you might find something for yourself
 
 ## Videos
 
