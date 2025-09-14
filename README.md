@@ -10,7 +10,7 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 
 #### Community
 - [Dev.to](https://dev.to/kirodotdev)
-- [Discord](https://discord.gg/kirodotdev)
+- [Discord](https://discord.gg/kirodotdev) - including official support on #kiro-help
 
 #### Social media
 - [BlueSky](https://bsky.app/profile/kiro.dev)
