@@ -24,7 +24,9 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 
 #### Hackathon
 - [Code with Kiro](https://kiro.devpost.com) - on Devpost
-- [Awesome Kiro Hackathon](https://github.com/4regab/Awesome-Kiro-Hackathon) - Awesome list of hackathon projects, on Github
+- [Code with Kiro - Project Gallery](https://kiro.devpost.com/project-gallery)) - Code with Kiro project gallery with results
+- [Reddit and Kiro: Community Games](https://communitygames2025.devpost.com/) - Reddit hackathon coorganized by Kiro
+- [Kiroween Hackathon](https://luma.com/25qlts61) - Yearly Halloween-themed Kiro event on Luma
 
 ## Other communities
 - [KiroIDE subreddit](https://www.reddit.com/r/kiroIDE)
