@@ -8,29 +8,31 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 - [Docs](https://docs.kiro.dev)
 - [Github](https://github.com/kirodotdev/Kiro)
 
-#### Community
-- [Dev.to](https://dev.to/kirodotdev)
-- [Discord](https://discord.gg/kirodotdev) - including official support on #kiro-help
+#### Streaming
+- [Twitch](https://www.twitch.tv/kirodotdev)
+- [YouTube](https://www.youtube.com/@kirodotdev)
 
-#### Social media
+## Community
+- [Discord](https://discord.gg/kirodotdev) - including official support on #kiro-help
+- [KiroIDE subreddit](https://www.reddit.com/r/kiroIDE)
+- [Kiro Community group on X](https://x.com/i/communities/1944853984478683582)
+- [Dev.to](https://dev.to/kirodotdev)
+
+## Social media profiles
 - [BlueSky](https://bsky.app/profile/kiro.dev)
 - [Instagram](https://www.instagram.com/kirodotdev)
 - [LinkedIn](https://www.linkedin.com/showcase/kirodotdev)
 - [Twitter](https://x.com/kirodotdev)
 
-#### Streaming
-- [Twitch](https://www.twitch.tv/kirodotdev)
-- [YouTube](https://www.youtube.com/@kirodotdev)
+## Hackathons
 
-#### Hackathon
+#### Ongoing
+- [Kiroween Hackathon](https://kiroween.devpost.com) - Yearly Halloween-themed Kiro event on Devpost (Oct 31st - Dec 5th 2025)
+
+#### Finished
 - [Code with Kiro](https://kiro.devpost.com) - on Devpost
 - [Code with Kiro - Project Gallery](https://kiro.devpost.com/project-gallery)) - Code with Kiro project gallery with results
 - [Reddit and Kiro: Community Games](https://communitygames2025.devpost.com/) - Reddit hackathon coorganized by Kiro
-- [Kiroween Hackathon](https://luma.com/25qlts61) - Yearly Halloween-themed Kiro event on Luma
-
-## Other communities
-- [KiroIDE subreddit](https://www.reddit.com/r/kiroIDE)
-- [Kiro Community group on X](https://x.com/i/communities/1944853984478683582)
 
 ## Articles
 
