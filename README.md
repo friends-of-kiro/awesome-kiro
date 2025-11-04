@@ -31,7 +31,7 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 
 #### Finished
 - [Code with Kiro](https://kiro.devpost.com) - on Devpost
-- [Code with Kiro - Project Gallery](https://kiro.devpost.com/project-gallery)) - Code with Kiro project gallery with results
+- [Code with Kiro - Project Gallery](https://kiro.devpost.com/project-gallery) - Code with Kiro project gallery with results
 - [Reddit and Kiro: Community Games](https://communitygames2025.devpost.com/) - Reddit hackathon coorganized by Kiro
 
 ## Articles
