@@ -1,3 +1,5 @@
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/ba2f7d97-8f45-4057-b1f5-195b47c31ff0" />
+
 # Awesome Kiro
 An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 
