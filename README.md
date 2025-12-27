@@ -26,6 +26,10 @@ An unofficial, curated list of resources for Kiro IDE - https://kiro.dev
 - [LinkedIn](https://www.linkedin.com/showcase/kirodotdev)
 - [Twitter](https://x.com/kirodotdev)
 
+## Community resources
+- [KiroHub](https://kirohub.amllamojha.com/) - a searchable repository of steering files, hooks, MCPs, and powers
+- [Made with Kiro](https://madewithkiro.com/) - a gallery of apps that were well... made with Kiro
+
 ## Hackathons
 
 #### Ongoing
